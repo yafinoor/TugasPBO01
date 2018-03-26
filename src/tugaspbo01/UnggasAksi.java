@@ -12,6 +12,12 @@ package tugaspbo01;
 public class UnggasAksi {
     public static void main(String[] args) {
         unggas Ayam = new unggas();
+        
+        Ayam.bentuk_cakar="cakar kecil";
+        Ayam.bentuk_paruh="runcing kecil";
+        Ayam.panjang_bulu="2 cm";
+        Ayam.ukuran_tubuh="kecil";
+        Ayam.warna_bulu="hitam merah";
     }
     
 }
