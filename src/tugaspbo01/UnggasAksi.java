@@ -18,6 +18,8 @@ public class UnggasAksi {
         Ayam.panjang_bulu="2 cm";
         Ayam.ukuran_tubuh="kecil";
         Ayam.warna_bulu="hitam merah";
+        
+         Ayam.cetakinfo();
     }
     
 }
