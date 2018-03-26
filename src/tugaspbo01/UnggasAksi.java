@@ -11,7 +11,7 @@ package tugaspbo01;
  */
 public class UnggasAksi {
     public static void main(String[] args) {
-        
+        unggas Ayam = new unggas();
     }
     
 }
